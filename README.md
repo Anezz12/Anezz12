@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hello folks! 👋<br>My name is Harsena Argretya.<br>I like Web Development.<br>I'm from Yogyakrta Indonesia.<br>I am currently studying at Amikom University Yogyakarta as an Informatics student.</p>
+<p align="left">Hello👋<br>My name is Harsena Argretya.<br>I like Web Development.<br>I'm from Yogyakrta Indonesia.<br>I am currently studying at Amikom University Yogyakarta as an Informatics student.</p>
 
 ###
 
